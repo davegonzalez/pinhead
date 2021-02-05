@@ -13,7 +13,7 @@
   }
 
   main {
-    flex: 1;
+    /* flex: 1; */
     position: relative;
     margin: 0 auto;
     max-width: 1400px;

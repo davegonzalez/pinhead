@@ -1,10 +1,8 @@
-import posts from "./_posts.js";
+import posts from "./_discoveries.js";
 
 const contents = JSON.stringify(
   posts.map((post) => {
-    // console.log(post);
     return {
-      template: post.template,
       title: post.title,
       slug: post.slug,
       excerpt: post.excerpt,
