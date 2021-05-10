@@ -51,35 +51,18 @@
 <div class="home-container">
   <div class="home-copy">
     <h1>Hi, I'm Dave. (he/him) 🇦🇷🇨🇴</h1>
-    <p>I’m a few things - an engineering manager at <a href="https://primary.com" target="_blank">Primary</a>, musician, <a href="https://www.discogs.com/user/sickoftalk/collection" target="_blank">record collector</a>, lover of cold brew, dad, husband, horror fanatic, and bad skateboarder.</p>
-    <p>I like to build and ship in any language but I'm pretty well-versed in stuff like Javascript/React/good old jQuery, CSS, and Ruby on Rails.</p>
-    <p>Here's a list of things I've worked on: <a href="https://www.linkedin.com/in/dvgonzalez/" target="_blank">Linkedin</a></p>
+    <p>I’m a few things - an engineering manager at <a href="https://primary.com" target="_blank">Primary</a>, musician, <a href="https://www.discogs.com/user/sickoftalk/collection" target="_blank">record collector</a>, lover of cold brew, dad, husband, <a href="https://letterboxd.com/dvgonzalez/" target="_blank">horror fanatic</a>, and bad skateboarder.</p>
+    <p>I like to build and ship in any language but I'm strongest in Javascript/React/good old jQuery, CSS, and Ruby on Rails. I've also come to love project management and helping other developers level up.</p>
+    <p>
+      <a href="https://www.linkedin.com/in/dvgonzalez/" target="_blank">Linkedin</a> |
+      <a href="https://github.com/davegonzalez" target="_blank">Github</a> |
+      <a href="https://www.instagram.com/_daveg/" target="_blank">Instagram</a>
+    </p>
     <p>Let's talk!: <a href="mailto:dave@bitshifter.co">dave at bitshifter dot co</a></p>
     <hr />
     <div>
-      <p><strike>I swear I'll get around to writing more:</strike></p>
-      <p>Update: It turns out I'm not good at traditional blogging, but having a digital garden resonates with me. I love the idea of "constantly publishing" via notes that may just turn into a full thought at a later date. This is an experiment in writing, so it’s not always going to make sense. Notes may be left incomplete. Comments are welcome.
-      </p>
 
-      <h2>Inspiration</h2>
-      <p class='post'><a href="http://roamresearch.com" target="_blank">Roam Research</a></p>
-      <p class='post'><a href="https://notes.busterbenson.com">Buster Benson Notes</a></p>
-      <blockquote>
-        I’m looking for a new, untethered way to organize thoughts in some spatial dimensions that aren’t by chronology or topic, but more around how function in terms of connecting me to my own intuitions, the world, and to communities. It’s a work-in-progress, so for now you get this random pile of rough notes loosely organized.
-
-        - Buster Benson
-      </blockquote>
-
-      <p>All raw, unedited notes can be found in my <a href="https://roamresearch.com/#/app/bitshifter">public Roam</a>. I'll be transferring most notes to a Paper document so that I can easily receive comments.</p>
-
-      <hr />
-
-      <h2>Organized Notes</h2>
-      <p class="post">
-        <a href="music">Music</a>
-      </p>
-
-      <h2>Daily/Weekly Notes</h2>
+      <!-- <h2>Daily/Weekly Notes</h2>
       {#each posts as post}
         {#if post.template === 'note'}
           <p class="post">
@@ -88,7 +71,7 @@
             </a>
           </p>
         {/if}
-      {/each}
+      {/each} -->
 
 
       <h2>Blog Posts</h2>
