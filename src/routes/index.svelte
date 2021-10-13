@@ -68,7 +68,7 @@
       <a href="https://github.com/davegonzalez" target="_blank">Github</a> |
       <a href="https://www.instagram.com/_daveg/" target="_blank">Instagram</a> |
     </p>
-    <p>Let's talk!: <a href="mailto:dave@bitshifter.co">dave at bitshifter dot co</a></p>
+    <p>Let's talk!: <a href="mailto:hi@davegonzalez.dev">hi @ davegonzalez dot dev</a></p>
     <hr />
     <div>
 
