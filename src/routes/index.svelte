@@ -51,22 +51,23 @@
 <div class="home-container">
   <div class="home-copy">
     <h1>Hi, I'm Dave. (he/him) 🇦🇷🇨🇴</h1>
-    <p>I’m a few things - an engineering manager at <a href="https://primary.com" target="_blank">Primary</a>, musician, <a href="https://www.discogs.com/user/sickoftalk/collection" target="_blank">record collector</a>, lover of cold brew, dad, husband, <a href="https://letterboxd.com/dvgonzalez/" target="_blank">horror fanatic</a>, <a href="https://at-war-with-radio.simplecast.com/" target="_blank">podcaster</a>, and bad skateboarder.</p>
-    <p>I like to build and ship in any language but I'm strongest in Javascript/React/good old jQuery, CSS, and Ruby on Rails. I've also come to love project management and helping other developers level up.</p>
+    <p>I’m a few things - <a href="https://www.linkedin.com/in/ashleyotherson/" target="_blank">husband</a>, dad, engineering manager at <a href="https://primary.com" target="_blank">Primary</a>, musician, web3 enthusiast, <a href="https://www.discogs.com/user/sickoftalk/collection" target="_blank">record collector</a>, lover of cold brew, <a href="https://letterboxd.com/dvgonzalez/" target="_blank">horror fanatic</a>, <a href="https://at-war-with-radio.simplecast.com/" target="_blank">podcaster</a>, and bad skateboarder.</p>
+    <p>I like to grow products, people, and teams 🪴.</p>
     <p>I don't blog much but I like to <a href="https://publish.obsidian.md/dvg" target="_blank">publicly share notes and thoughts (forever under construction)</a>.</p>
     <h2>Other things I do</h2>
     <p>
+      <a href="https://publish.obsidian.md/dvg" target="_blank">Research + My Notes</a><br />
       <a href="https://www.atwarwithradio.com/" target="_blank">At War with Radio: A Music Newsletter</a><br />
       <a href="https://at-war-with-radio.simplecast.com/" target="_blank">At War with Radio: Podcast</a><br />
-      <a href="https://publish.obsidian.md/dvg" target="_blank">Research + My Notes</a><br />
       <a href="https://github.com/definitelyfriends/laser-wallet" target="_blank">Laser Wallet - Browser HNT Wallet</a><br />
       <a href="https://medallion.fm" target="_blank">Medallion</a>
     </p>
     <h2>The social stuff</h2>
     <p>
+      <a href="https://www.twitter.com/_daveg/" target="_blank">Twitter</a> |
       <a href="https://www.linkedin.com/in/dvgonzalez/" target="_blank">Linkedin</a> |
       <a href="https://github.com/davegonzalez" target="_blank">Github</a> |
-      <a href="https://www.instagram.com/_daveg/" target="_blank">Instagram</a> |
+      <a href="https://www.instagram.com/_daveg/" target="_blank">Instagram</a>
     </p>
     <p>Let's talk!: <a href="mailto:hi@davegonzalez.dev">hi @ davegonzalez dot dev</a></p>
     <hr />
