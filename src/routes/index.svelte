@@ -68,6 +68,7 @@
       <a href="https://www.linkedin.com/in/dvgonzalez/" target="_blank">Linkedin</a> |
       <a href="https://github.com/davegonzalez" target="_blank">Github</a> |
       <a href="https://www.instagram.com/_daveg/" target="_blank">Instagram</a>
+      <a href="https://rainbow.me/davegonzalez.eth" target="_blank">Rainbow NFT Gallery</a>
     </p>
     <p>Let's talk!: <a href="mailto:hi@davegonzalez.dev">hi @ davegonzalez dot dev</a></p>
     <hr />
