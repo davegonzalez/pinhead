@@ -60,15 +60,13 @@
       <a href="https://www.atwarwithradio.com/" target="_blank">At War with Radio: A Music Newsletter</a><br />
       <a href="https://at-war-with-radio.simplecast.com/" target="_blank">At War with Radio: Podcast</a><br />
       <a href="https://github.com/definitelyfriends/laser-wallet" target="_blank">Laser Wallet - Browser HNT Wallet</a><br />
-      <a href="https://medallion.fm" target="_blank">Medallion</a>
     </p>
     <h2>The social stuff</h2>
     <p>
-      <a href="https://www.twitter.com/_daveg/" target="_blank">Twitter</a> |
+      <a rel="me" href="https://hachyderm.io/@dvg" target="_blank">Mastodon</a> |
       <a href="https://www.linkedin.com/in/dvgonzalez/" target="_blank">Linkedin</a> |
       <a href="https://github.com/davegonzalez" target="_blank">Github</a> |
       <a href="https://www.instagram.com/_daveg/" target="_blank">Instagram</a>
-      <a href="https://rainbow.me/davegonzalez.eth" target="_blank">Rainbow NFT Gallery</a>
     </p>
     <p>Let's talk!: <a href="mailto:hi@davegonzalez.dev">hi @ davegonzalez dot dev</a></p>
     <hr />
